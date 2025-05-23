@@ -12,7 +12,7 @@ app.use(cors());
 // Middleware pour parser automatiquement le JSON dans les requêtes entrantes
 app.use(express.json());
 
-//Toutes les routes sont accessibles depuis la racine "/"
+//Toutes les routes sont accessibles depuis la racine "/api"
 app.use("/api", router);
 
 // Lancement du serveur sur un port
