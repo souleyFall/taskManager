@@ -10,6 +10,7 @@ Les fonctionnalités incluent :
 ✅ Stockage et manipulation des données côté backend via une API REST en Express.js  
 
 **FONCTIONNALITES**
+
     Le frontend est développé en **React + TypeScript**, et le backend en **Node.js + Express + TypeScript**.
 
 ---
