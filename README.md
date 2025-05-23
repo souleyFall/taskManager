@@ -33,10 +33,10 @@ Les fonctionnalités incluent :
 
 ### 2. Se déplacer dans les dossiers du projet
 
-#### ✅ Terminal 1 - Backend :
+#### ✅ Terminal 1 - frontend :
 
         ```bash
-            cd chemin/vers/le/projet/backend
+            cd chemin/vers/le/projet/frontend
         ```
 
 #### ✅ Terminal 2 - Backend :
